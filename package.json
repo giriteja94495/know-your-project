@@ -1,0 +1,33 @@
+{
+  "name": "know-your-project",
+  "version": "1.2.1",
+  "description": "A tool that can be used to measure your project dependency list and praise/shame you",
+  "main": "shame.js",
+  "bin": {
+    "shame": "./shame.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shame": "node shame.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giriteja94495/know-your-project.git"
+  },
+  "keywords": [
+    "npm",
+    "dependency",
+    "test",
+    "dependency list",
+    "know-your-project",
+    "know",
+    "your",
+    "project"
+  ],
+  "author": "Bille Giriteja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giriteja94495/know-your-project/issues"
+  },
+  "homepage": "https://github.com/giriteja94495/know-your-project#readme"
+}
